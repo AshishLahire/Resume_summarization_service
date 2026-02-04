@@ -1,6 +1,6 @@
 // API Configuration
 // Use your live Render backend URL
-const API_BASE_URL = "https://service-master.onrender.com/api";
+const API_BASE_URL = "https://resume-summarization-service.onrender.com/api";
 
 // DOM Elements
 const fileInput = document.getElementById("fileInput");
